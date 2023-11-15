@@ -1,0 +1,14 @@
+out_3gausian.pngのpsnr37.296
+out_5gausian.pngのpsnr34.4018
+out_7gausian.pngのpsnr33.8838
+out_9gausian.pngのpsnr33.6711
+out_11gausian.pngのpsnr33.5179
+out_13gausian.pngのpsnr33.3587
+out_15gausian.pngのpsnr33.1564
+out_3maf.pngのpsnr33.7514
+out_5maf.pngのpsnr33.5699
+out_7maf.pngのpsnr33.5071
+out_9maf.pngのpsnr33.4632
+out_11maf.pngのpsnr33.277
+out_13maf.pngのpsnr32.4703
+out_15maf.pngのpsnr31.7464

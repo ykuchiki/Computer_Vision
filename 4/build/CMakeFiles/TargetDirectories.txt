@@ -1,0 +1,3 @@
+/Users/kuchiki/Desktop/M1後期/CV/4/build/CMakeFiles/main.dir
+/Users/kuchiki/Desktop/M1後期/CV/4/build/CMakeFiles/edit_cache.dir
+/Users/kuchiki/Desktop/M1後期/CV/4/build/CMakeFiles/rebuild_cache.dir

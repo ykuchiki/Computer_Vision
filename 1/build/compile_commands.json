@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/kuchiki/Desktop/M1後期/CV/build",
-  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.8.0_7/include/opencv4  -std=c++11 -Wall -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/kuchiki/Desktop/M1後期/CV/main.cpp",
-  "file": "/Users/kuchiki/Desktop/M1後期/CV/main.cpp",
-  "output": "CMakeFiles/main.dir/main.cpp.o"
-}
-]
